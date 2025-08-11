@@ -1,0 +1,1 @@
+// JS content same as provided earlier
